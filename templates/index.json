@@ -1,0 +1,866 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover the Secret to Radiant Skin with Our Natural Beauty Essentials!",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_pVK3W7": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View Collection 👉🏻",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "button_rounded_corners": "medium",
+            "button_text_color": "#FFFFFF",
+            "button_background_color": "#1a86f9",
+            "button_padding_vertical": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "buttons_pVK3W7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/15.webp",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "pp_image_with_text_HNW9yr": {
+      "type": "pp-image-with-text",
+      "blocks": {
+        "heading_XBqRa6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to GorgeousGarden - Your Beauty Journey Starts Here!",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_BnFjzQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unleashing beauty's true potential. At GorgeousGarden, we offer natural skincare solutions crafted for glowing complexions. Explore our vibrant range of organic products and see the difference yourself!<\/p>",
+            "text_style": "subtitle",
+            "text_alignment": "left",
+            "text_mobilealignment": "left",
+            "text_color": "#000000"
+          }
+        },
+        "button_ewqPQY": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Our Story 👉🏻",
+            "button_link": "\/pages\/about-us",
+            "button_link_newtab": false,
+            "button_text_color": "#ffffff",
+            "button_background_color": "#1a86f9",
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_width": "full",
+            "button_alignment": "left",
+            "button_mobilealignment": "center",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 15,
+            "button_padding_horizontal": 25,
+            "button_subtext": "Find out what's our mission and goals",
+            "button_subtext_style": "body",
+            "button_subtext_color": "#000000",
+            "button_action": "link",
+            "button_action_scroll_element": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XBqRa6",
+        "text_BnFjzQ",
+        "button_ewqPQY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1.webp",
+        "desktop_image_width": "large",
+        "image_border_radius": 50,
+        "layout": "image_first",
+        "mobile_layout": "image_first",
+        "gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 40,
+        "margin_bottom": 0
+      }
+    },
+    "pp_image_with_benefits_YnG9hi": {
+      "type": "pp-image-with-benefits",
+      "blocks": {
+        "benefit_D6UzNR": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "🌿",
+            "emoji_size": "medium",
+            "heading": "Natural Ingredients",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Our products use ingredients made by nature for amazing skin.<\/p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_QgKXFK": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "🚚",
+            "emoji_size": "medium",
+            "heading": "Fast Shipping",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Get your goodies quickly with our speedy delivery 📦.<\/p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_47AwEj": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "📞",
+            "emoji_size": "medium",
+            "heading": "24/7 Support",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>We're here to help you anytime you need advice or info.<\/p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_EKiWTc": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "💎",
+            "emoji_size": "medium",
+            "heading": "Guaranteed Quality",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Expect only the best quality because you deserve it.<\/p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_D6UzNR",
+        "benefit_QgKXFK",
+        "benefit_47AwEj",
+        "benefit_EKiWTc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/11.webp",
+        "desktop_image_width": "medium",
+        "image_border_radius": 100,
+        "heading": "Why You'll Love Shopping With Us!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "text": "<p>We promise more than just products - offering an experience that transforms your skincare routine with natural goodness delivered right to your doorstep.<\/p>",
+        "text_style": "subtitle",
+        "text_alignment": "center",
+        "text_mobilealignment": "center",
+        "text_color": "#000000",
+        "gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), #d9f1ff 100%)",
+        "padding_top": 52,
+        "padding_bottom": 44,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Discover Our Collection",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "image_rounded_corners": "high",
+        "color_scheme": "scheme-1",
+        "button_rounded_corners": "medium",
+        "button_width": "fit",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "pp_reviews_EXpLcn": {
+      "type": "pp-reviews",
+      "blocks": {
+        "review_dtNXc1": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Chloe A.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "I absolutely ADORE GorgeousGarden! 😍 Their facial oils smell so refreshing and feel AMAZING on my skin. I was super skeptical about trying new products, but their natural ingredients really won me over. I noticed a visible improvement in my skin texture within weeks, and my friends keep asking me about my secret! Shipping was lightning fast, and their customer service team was kind and helpful with all my annoying questions, lol! Highly recommend for anyone who wants that glowing skin without any guilt. Will def order again and spread the word to all my beauty buddies! 💁 ♀️✨",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc2": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Olivia B.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "GorgeousGarden products are soooo lit! 🌟 My skin is feelin' so smooth rn, luv it!!",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc3": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Liam T.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Honestly, the body butter is out of this world! It's so rich, and I love how it's all natural. Gonna stock up! 💪",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc4": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Emma J.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Seriously, y'all gotta try their facial cleanser. It's that good. No cap! 😄",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc5": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Sophia R.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "These products are life-changing. My acne scars are fading and skin feels so soft! ✨",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc6": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Aiden H.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Great store, reliable and quick shipping :) Highly recommended! 👌",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc7": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Lily M.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Luv it! Great quality and fast delivery. Will buy again! 💕",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc8": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Noah P.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "The herbal mask I got from here is a skincare dream! 🧖 ♀️💯",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc9": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Mia L.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Literally the best beauty products ever. Go shop here if you wanna glow! 👏",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc10": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "William D.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "GorgeousGarden was a delightful find. Their easy-to-use website made shopping a breeze. I ordered the lavender moisturizer, and it was delivered faster than expected. Upon using it, I immediately felt a soothing effect on my skin. It's been a few weeks now, and I've noticed my skin is less irritated and feels suppler. Customer support was super responsive when I emailed them about product details before buying. They're genuinely committed to ensuring satisfaction, and their attention to customer happiness is unparalleled. If you care about quality and service, give them a try!",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc11": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Isabella W.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Order arrived FAST and the products are top-notch! 🙌",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc12": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "James K.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Best beauty site out there rn. Products are fab! 😊",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc13": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Amelia F.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Shipping was real quick, and the quality is high. Their customer service is responsive and friendly. So happy with my purchase!",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc14": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Ethan M.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Amazing products, everyone needs to try GorgeousGarden rn! 🔥",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc15": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Hannah C.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Wow, just wow. Never going back to any other brand! 🥰",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        }
+      },
+      "block_order": [
+        "review_dtNXc1",
+        "review_dtNXc2",
+        "review_dtNXc3",
+        "review_dtNXc4",
+        "review_dtNXc5",
+        "review_dtNXc6",
+        "review_dtNXc7",
+        "review_dtNXc8",
+        "review_dtNXc9",
+        "review_dtNXc10",
+        "review_dtNXc11",
+        "review_dtNXc12",
+        "review_dtNXc13",
+        "review_dtNXc14",
+        "review_dtNXc15"
+      ],
+      "settings": {
+        "heading_stars_size": "lg",
+        "heading_stars_color": "#facc15",
+        "stars_alignment": "center",
+        "stars_mobilealignment": "center",
+        "heading_stars_number": 5,
+        "heading": "People love our products!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "text": "<p>Rated 4.9/5 by 5,000+ Happy Customers<\/p>",
+        "text_style": "subtitle",
+        "text_alignment": "center",
+        "text_mobilealignment": "center",
+        "text_color": "#000000",
+        "gradient": "",
+        "button_label": "",
+        "button_link": "",
+        "button_link_newtab": true,
+        "button_text_color": "#ffffff",
+        "button_background_color": "#1a86f9",
+        "button_border_width": 0,
+        "button_border_color": "#000000",
+        "button_width": "fit",
+        "button_alignment": "center",
+        "button_mobilealignment": "left",
+        "button_rounded_corners": "medium",
+        "button_padding_vertical": 15,
+        "button_padding_horizontal": 15,
+        "button_subtext": "",
+        "button_subtext_style": "body",
+        "button_subtext_color": "#000000",
+        "button_action": "scroll",
+        "button_action_scroll_element": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "pp_guarantee_d8zzPK": {
+      "type": "pp-guarantee",
+      "blocks": {
+        "icon_XHDhV4": {
+          "type": "icon",
+          "settings": {
+            "icon_type": "heart",
+            "icon_size": 65,
+            "icon_alignment": "center",
+            "icon_mobilealignment": "center",
+            "icon_color": "#1a86f9"
+          }
+        },
+        "heading_CQ6HWW": {
+          "type": "heading",
+          "settings": {
+            "heading": "100% Satisfaction Guaranteed or Your Money Back!",
+            "heading_size": "h1",
+            "heading_alignment": "center",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_4XnaxC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're super confident that you'll fall in love with our products. Not happy? No worries - we offer a hassle-free 30-day money-back guarantee. So, shop with confidence and discover your best skin yet with GorgeousGarden! Don't settle for less. 🌟<\/p>",
+            "text_style": "subtitle",
+            "text_alignment": "center",
+            "text_mobilealignment": "center",
+            "text_color": "#000000"
+          }
+        },
+        "button_nd9nGW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now 👉🏻",
+            "button_link": "\/collections\/all",
+            "button_link_newtab": false,
+            "button_text_color": "#ffffff",
+            "button_background_color": "#1a86f9",
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_width": "fit",
+            "button_width_mobile": "full",
+            "button_alignment": "center",
+            "button_mobilealignment": "center",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 15,
+            "button_padding_horizontal": 15,
+            "button_subtext": "Enjoy 30-Day Money Back Guarantee",
+            "button_subtext_style": "body",
+            "button_subtext_color": "#000000",
+            "button_action": "link",
+            "button_action_scroll_element": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_XHDhV4",
+        "heading_CQ6HWW",
+        "text_4XnaxC",
+        "button_nd9nGW"
+      ],
+      "settings": {
+        "gradient": "",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "reviews_number_wmFXyt": {
+          "type": "reviews-number",
+          "settings": {
+            "reviews_text": "183 Reviews",
+            "reviews_text_style": "body",
+            "reviews_text_color": "#000000",
+            "reviews_stars_size": "sm",
+            "reviews_stars_color": "#facc15",
+            "reviews_stars_number": 5,
+            "reviews_alignment": "start",
+            "reviews_mobilealignment": "start",
+            "reviews_border_top": 0,
+            "reviews_padding_top": 0,
+            "reviews_padding_bottom": 0
+          }
+        },
+        "product_title_DXtTRC": {
+          "type": "product-title",
+          "settings": {
+            "product_title_heading_size": "h1",
+            "product_title_heading_alignment": "left",
+            "product_title_heading_mobilealignment": "left",
+            "product_title_heading_color": "#000000",
+            "product_title_padding_top": 0,
+            "product_title_padding_bottom": 0
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_text_color": "#000000",
+            "pricecomparedat_text_color": "#af032a",
+            "price_show_badge": false
+          }
+        },
+        "pp_text_VLf9ic": {
+          "type": "pp-text",
+          "settings": {
+            "pp_text": "<strong>Experience a youthful glow and smooth skin effortlessly<\/strong>",
+            "pp_text_size": "body",
+            "pp_text_color": "#000000",
+            "pp_text_alignment": "left",
+            "pp_text_mobilealignment": "left",
+            "pp_text_border_top": 0,
+            "pp_text_border_bottom": 1,
+            "pp_text_border_color": "#e8e8e1",
+            "pp_text_padding_top": 0,
+            "pp_text_padding_bottom": 16
+          }
+        },
+        "pp_benefits_Lfapdf": {
+          "type": "pp-benefits",
+          "settings": {
+            "pp_benefits_text1": "✔️ Reduces wrinkles and fine lines",
+            "pp_benefits_text2": "✔️ Enhances nutrient absorption",
+            "pp_benefits_text3": "✔️ Stimulates collagen production",
+            "pp_benefits_text4": "✔️ Improves skin elasticity rapidly",
+            "pp_benefits_text_size": "body",
+            "pp_benefits_text_color": "#000000",
+            "pp_benefits_text_alignment": "left",
+            "pp_benefits_text_mobilealignment": "left",
+            "pp_benefits_border_top": 0,
+            "pp_benefits_border_bottom": 1,
+            "pp_benefits_border_color": "#e8e8e1",
+            "pp_benefits_padding_top": 0,
+            "pp_benefits_padding_bottom": 12
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "button_text": "Add To Cart 👉🏻",
+            "sold_out_text": "Sold Out 😭",
+            "unavailable_text": "Unavailable",
+            "button_color": "#1a86f9",
+            "text_color": "#ffffff",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 20,
+            "button_padding_horizontal": 15
+          }
+        },
+        "pp_guarantees_JzRPwy": {
+          "type": "pp-guarantees",
+          "settings": {
+            "pp_guarantees_icon1": "truck",
+            "pp_guarantees_text1": "Worldwide Shipping",
+            "pp_guarantees_icon2": "heart",
+            "pp_guarantees_text2": "100% Money Back Guarantee",
+            "pp_guarantees_icon3": "box",
+            "pp_guarantees_text3": "Free Returns",
+            "pp_guarantees_icon_size": 28,
+            "pp_guarantees_icon_color": "#000000",
+            "pp_guarantees_text_size": "small",
+            "pp_guarantees_text_color": "#000000",
+            "pp_guarantees_border_top": 0,
+            "pp_guarantees_border_bottom": 1,
+            "pp_guarantees_border_color": "#e8e8e1",
+            "pp_guarantees_padding_top": 0,
+            "pp_guarantees_padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "reviews_number_wmFXyt",
+        "product_title_DXtTRC",
+        "price",
+        "pp_text_VLf9ic",
+        "pp_benefits_Lfapdf",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "pp_guarantees_JzRPwy"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1abe165f-834c-4397-80e1-165dc6524d44",
+        "media_size": "medium",
+        "image_rounded_corners": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12,
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "pp_image_with_text_HNW9yr",
+    "pp_image_with_benefits_YnG9hi",
+    "featured_collection",
+    "pp_reviews_EXpLcn",
+    "pp_guarantee_d8zzPK",
+    "main"
+  ]
+}
